@@ -1,0 +1,6 @@
+﻿  cell.cpp
+  func`s.cpp
+  tic tac toe.cpp
+D:\Programming\C++\tic tac toe\tic tac toe\tic tac toe.cpp(13,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating Code...
+  tic tac toe.vcxproj -> D:\Programming\C++\tic tac toe\x64\Debug\tic tac toe.exe
